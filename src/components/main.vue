@@ -4,6 +4,7 @@
             <div class="row bg-primary header">
                 <div class="col-3">
                     <h4 class="whiteText">Employee Lister</h4>
+                    <a class="btn btn-sm btn btn-outline-light margLeft10" href="https://github.com/undead-jackal/vueSimpleCrud.git"> View source on Github</a>
                 </div>
                 <div class="col-9 text-end inp">
                     <div class="form-group ">
